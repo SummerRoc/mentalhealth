@@ -13,12 +13,6 @@
           <router-link class="txt" to="">用户ID登录</router-link>
         </div>
       </div>
-
-
-
-
-
-
       <div class="login-middle">
         <el-form
           :model="ruleForm"
