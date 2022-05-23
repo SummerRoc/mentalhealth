@@ -21,6 +21,17 @@
           ref="ruleForm"
           class="demo-ruleForm"
         >
+
+
+        <el-form
+          :model="ruleForm"
+          status-icon
+          :rules="rules"
+          ref="ruleForm"
+          class="demo-ruleForm"
+        >
+
+
           <el-form-item class="account" prop="username">
             <el-input
               ref="code"
