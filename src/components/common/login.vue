@@ -16,14 +16,7 @@
 
 
 
-  <div class="box">
-    <div class="login">
-      <h2 style="margin-left: 55px">欢迎登录心灵驿站</h2>
-      <div style="margin-top: 30px">
-        <div class="hyper1">
-          <router-link class="txt" to="">用户ID登录</router-link>
-        </div>
-      </div>
+
 
 
       <div class="login-middle">
